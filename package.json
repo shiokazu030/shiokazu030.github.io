@@ -1,6 +1,7 @@
 {
   "name": "card-worker",
   "private": true,
+  "description": "Proxy for the X link card maker",
   "scripts": {
     "deploy": "wrangler deploy",
     "dev": "wrangler dev"
